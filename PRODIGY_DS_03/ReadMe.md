@@ -7,7 +7,7 @@ This repository contains the solution for **Task 01** of my **Data Science Inter
 
 ## 📋 Task Description
 
-**Task-01**: Implement a Decision Tree Classifier to predict a binary outcome (Yes/No) based on the customer's data.
+**Task-03**: Implement a Decision Tree Classifier to predict a binary outcome (Yes/No) based on the customer's data.
 
 ### The task includes:
 - 🔄 Data Preprocessing  
