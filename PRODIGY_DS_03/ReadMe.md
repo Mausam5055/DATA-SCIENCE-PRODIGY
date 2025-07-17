@@ -1,7 +1,7 @@
 # 🧠 Prodigy InfoTech Data Science Internship - Task 01  
 ## Decision Tree Classifier for Customer Subscription Prediction
 
-This repository contains the solution for **Task 01** of my **Data Science Internship at Prodigy InfoTech**. The main objective is to build and visualize a **Decision Tree Classifier** that predicts whether a customer will subscribe to a **term deposit** based on demographic and campaign-related data.
+This repository contains the solution for **Task 03** of my **Data Science Internship at Prodigy InfoTech**. The main objective is to build and visualize a **Decision Tree Classifier** that predicts whether a customer will subscribe to a **term deposit** based on demographic and campaign-related data.
 
 ---
 
